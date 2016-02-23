@@ -1,0 +1,27 @@
+/*
+Theme Name: OpenWebinarsGenesis
+Theme URI: http://github.com/jarcos/openwebinarsgenesis
+Author: Jose Arcos
+Author URI: http://www.josearcos.me
+Description: Este es un tema de ejemplo creado para el curso de creación de temas de OpenWebinars
+Version: 1.0.0
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Tags:
+Template: genesis
+Text Domain: openwebinarsgenesis
+*/
+
+@import url( "../genesis/style.css" );
+
+.home-welcome {
+  width: 45%;
+  float: left;
+  padding: 10px;
+}
+
+.call-to-action {
+  width: 45%;
+  float: right;
+  padding: 10px;
+}
